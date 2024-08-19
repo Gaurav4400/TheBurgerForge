@@ -1,0 +1,16 @@
+{
+  "name": "theburgerforge",
+  "version": "1.0.0",
+  "description": "Used tailwind css for creating a responsive burger website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
