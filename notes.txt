@@ -1,0 +1,26 @@
+vs code shortcuts
+ctrl+ ` - open terminal
+
+
+<-----------------------------------------::::::::::::::::::::------------------------------------>
+In bash
+
+$ git clone https://github.com/Gaurav4400/TheBurgerForge
+
+$ pwd
+/c/Users/Kumar Gaurav
+
+$ mv TheBurgerForge/ Desktop/
+
+$ cd Desktop/
+
+$ ls
+
+$ cd TheBurgerForge/
+$ code .
+
+<------local and remote connected successfully and local opened in vs code ----------->
+
+git status
+
+<-----------------------------------------------git commands---------------------------------------->
